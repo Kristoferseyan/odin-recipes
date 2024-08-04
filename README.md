@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first odin project I have creatid. This is the odein-recipes repo
